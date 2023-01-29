@@ -1,0 +1,9 @@
+string name = "Evgeny";
+int age = 15;
+bool isEmployed = true;
+double weight = 39.65;
+ 
+Console.WriteLine($"Имя: {name}");
+Console.WriteLine($"Возраст: {age}");
+Console.WriteLine($"Вес: {weight}");
+Console.WriteLine($"Работает: {isEmployed}");
